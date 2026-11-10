@@ -1,0 +1,35 @@
+{
+    "species":
+    [
+        {
+            "query": "INSERT INTO species (name) VALUES ('Dwarf Hamster');"
+        },
+        {
+            "query": "INSERT INTO species (name) VALUES ('Teddy bear hamster');"
+        },
+        {
+            "query": "INSERT INTO species (name) VALUES ('Jack-Russel');"
+        },
+        {
+            "query": "INSERT INTO species (name) VALUES ('Budgy');"
+        },
+        {
+            "query": "INSERT INTO species (name) VALUES ('Tortoise');"
+        },
+        {
+            "query": "INSERT INTO species (name) VALUES ('Gold Fish');"
+        },
+        {
+            "query": "INSERT INTO species (name) VALUES ('Lizzard');"
+        },
+        {
+            "query": "INSERT INTO species (name) VALUES ('Bearded Dragon');"
+        },
+        {
+            "query": "INSERT INTO species (name) VALUES ('Parrot');"
+        },
+        {
+            "query": "INSERT INTO species (name) VALUES ('Corn snake');"
+        }
+    ]
+}
